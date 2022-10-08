@@ -1,0 +1,38 @@
+[
+	{
+		"id": "1",
+		"count": "2 538 020",
+		"determined": "test2",
+		"number": "test3",
+		"duration": "test4",
+		"credits_list": "test5",
+		"link": "link.pdf"
+	},
+	{
+		"id": "2",
+		"count": "2 538 020",
+		"determined": "test2",
+		"number": "test3",
+		"duration": "test4",
+		"credits_list": "test5",
+		"link": "link.pdf"
+	},
+	{
+		"id": "3",
+		"count": "3 538 020",
+		"determined": "завершить процедуру реализации имущества гражданина",
+		"number": "А40-236603/16-179-288",
+		"duration": "11 месяцев от подписания договора до полного списания задолженности.",
+		"credits_list": "АО Тинькофф Банк",
+		"link": "link.pdf"
+	},
+	{
+		"id": "4",
+		"count": "2 538 020",
+		"determined": "test22",
+		"number": "test13",
+		"duration": "test24",
+		"credits_list": "test35",
+		"link": "link.pdf"
+	}
+]
